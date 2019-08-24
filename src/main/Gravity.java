@@ -5,7 +5,7 @@
 package main;
 
 // import java.util.Scanner;
-// uncomment the above line to use input in your program.
+
 
 public class Gravity {
 	// TODO 1: Create the main method
